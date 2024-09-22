@@ -1,8 +1,7 @@
-Hi there 👋 I'm [Li Song](mourisl.github.io), an Assistant Professor in the Department of Biomedical Data Science at Dartmouth College. My reserach area is bioinformatics and my research interest is to design algorithms and develop software to analyze sequencing data. Here are the software developed by collaborators and me.
+Hi there 👋 I'm [Li Song](mourisl.github.io), an Assistant Professor in the Department of Biomedical Data Science at Dartmouth College. My reserach area is bioinformatics and my research interest is to design algorithms and develop software to analyze sequencing data. Here is the software developed by collaborators and me:
 
 ### Immunology
 - [**TRUST4**](https://github.com/liulab-dfci/TRUST4): TCR/BCR assembler for RNA-seq data. TRUST4 can be applied on either bulk or single-cell RNA-seq data. In addition to report CDR3s, TRUST4 also assembles full-length TCRs/BCRs. 
-[![](https://img.shields.io/static/v1?label=AIRR-C%20sw-tools%20v1&message=compliant&color=008AFF&labelColor=000000&style=plastic)](https://docs.airr-community.org/en/stable/swtools/airr_swtools_standard.html)
 [![GitHub Repo stars](https://img.shields.io/github/stars/liulab-dfci/TRUST4)](https://github.com/liulab-dfci/TRUST4)
 [![Anaconda-Server Badge](https://anaconda.org/bioconda/trust4/badges/downloads.svg)](https://anaconda.org/bioconda/trust4) 
 - [**T1K**](https://github.com/mourisl/T1K): Genotyper for highly polymorphic genes including KIR and HLA. T1K is verstile and works with RNA-seq, WGS and WES data. T1K also identifies novel SNPs and is compatible with single-cell RNA-seq data. 
