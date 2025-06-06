@@ -1,4 +1,4 @@
-Hi there 👋 I'm [Li Song](https://mourisl.github.io), an Assistant Professor in the Department of Biomedical Data Science at Dartmouth College. My research area is bioinformatics and my research interest is to design algorithms and develop software to analyze sequencing data. Here is the software developed by collaborators and me:
+Hi there 👋 I'm [Li Song](https://mourisl.github.io), an Assistant Professor in the Department of Biomedical Data Science at Dartmouth College. My research area is bioinformatics and my research interest is to design algorithms and develop software to analyze sequencing data. Our lab is actively hiring, please check [lab website](https://mourisl.github.io/open_positions) for more details. Here is the software developed by collaborators and me:
 
 ### Immunology
 - [**TRUST4**](https://github.com/liulab-dfci/TRUST4): TCR/BCR assembler for RNA-seq data. TRUST4 can be applied on either bulk or single-cell RNA-seq data. In addition to report CDR3s, TRUST4 also assembles full-length TCRs/BCRs. 
